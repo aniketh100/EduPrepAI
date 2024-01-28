@@ -10,50 +10,6 @@ Students in colleges usually watch summary video of the whole topics (preferably
 Turn educational video lectures into engaging MCQ based quizzes and automatic assessment.
 Introducing our revolutionary Transcription-based Quiz Authoring System. A cutting-edge tool designed to enhance the learning experience for both teachers and students. This innovative project will empower educators to effortlessly create engaging quizzes that cater to their unique teaching objectives, saving valuable time and effort. With an intuitive interface, our quiz generator enables teachers to customize questions, select diverse question types, and set parameters to meet the specific needs of their curriculum. Students, in turn, benefit from a dynamic and interactive learning environment, where they can reinforce their understanding of course material in a fun and challenging way. This tool not only streamlines the quiz creation process but also provides instant grading and performance analytics, allowing teachers to identify areas for improvement and tailor their instructional approach accordingly. A transformative solution for efficient and effective learning.
 
-RoadMap:
-Data Collection and Selection:
-Take educational videos from 3rd party like (YouTube , https://paperswithcode.com/dataset/eduvsum)
-Explore transfer learning opportunities using pre-trained models if applicable.
-
-Video Conversion to Audio:
-Extract audio from video files using appropriate tools or libraries.
-Use ML-based audio processing techniques if beneficial and needed.
-VX2TEXT: End-to-End Learning of Video-Based Text Generation from Multimodal Inputs at later updates for adding visual features of the videos aswell
-
-Audio to Transcript Generation:
-Explore automatic speech recognition (ASR) models, possibly leveraging existing ML-based solutions.
-
-Data Cleaning and Preprocessing:
-Utilize natural language processing (NLP) for text cleaning and normalization.
-SpaCy
-
-Text Summarization (Optional):
-Apply extractive or abstractive summarization using ML models to condense text.
-Tokenization
-
-Question Generation:
-Implement T5 (transformer-based architectures) question generation models varying the number of models to use according to the types of question patterns.
-Or 
-Using LLMs BERT preferably for this task and Naive Bayes Classifier
-
-Quiz/Answer Key Generation:
-Sense2vec wordvectors that are used for generation of multiple choices.
-Research about giving similar options which are not correct as options.
-
-Assessment Mechanism:
-Incorporating natural language understanding (NLU) model.
-Score Reinforcement Learning
-
-Integration of Multimedia Elements (Optional):
-Explore computer vision models for extracting information from video frames.
-
-Database Integration:
-Using data indexing and retrieval, improving efficiency.
-
-Make an internal AI to help navigating through the portal.
-
-
-*This gives just the basic idea of the implementation and we will be changing/enhancing a lot of things here.*
 
 
 Future Adds:
