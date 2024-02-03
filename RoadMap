@@ -44,6 +44,34 @@ Only you can see your lectures and generated notes.
 Make an internal AI to help navigating through the portal.
 
 
+Process:
+Extract frames from video file
+
+Classify extracted frames to find frames containing slides
+
+Perspective crop images containing the presenter and slide to contain only the slide by matching temporal features
+
+Cluster slides to group transitions and remove duplicates
+
+Run a Slide Structure Analysis (SSA) using OCR on the slide frames to obtain a formatted transcript of the text on the slides
+
+Detect and extract figures from the set of unique slide frames
+
+Transcribe the lecture using a speech-to-text algorithm
+
+Summarize the visual and auditory transcripts
+
+Combine
+
+Run some modifications (such as only using complete sentences)
+
+Extractive summarization
+
+Abstractive summarization
+
+Convert intermediate outputs to a final notes file (HTML, TXT, markdown, etc.)
+
+
 *This gives just the basic idea of the implementation and we will be changing/enhancing a lot of things here.*
 
 https://github.com/thisisgagangupta/EduPrepAI
