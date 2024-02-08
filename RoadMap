@@ -1,5 +1,7 @@
 RoadMap:
-Data Collection and Selection:
+
+<!--  #Previous Version
+Data Collection and Selection:  
 Take educational videos from 3rd party like (YouTube , https://paperswithcode.com/dataset/eduvsum)
 Explore transfer learning opportunities using pre-trained models if applicable.
 
@@ -14,6 +16,8 @@ Explore automatic speech recognition (ASR) models, possibly leveraging existing 
 Data Cleaning and Preprocessing:
 Utilize natural language processing (NLP) for text cleaning and normalization.
 SpaCy
+-->
+
 
 Text Summarization (Optional):
 Apply extractive or abstractive summarization using ML models to condense text.
@@ -45,7 +49,7 @@ Make an internal AI to help navigating through the portal.
 
 
 Process:
-Extract frames from video file
+Extract frames from video file ✔️
 
 Classify extracted frames to find frames containing slides
 
@@ -75,3 +79,7 @@ Convert intermediate outputs to a final notes file (HTML, TXT, markdown, etc.)
 *This gives just the basic idea of the implementation and we will be changing/enhancing a lot of things here.*
 
 https://github.com/thisisgagangupta/EduPrepAI
+
+
+
+Added Scraper to scrape videos from open-access websites, youtube. etc...
