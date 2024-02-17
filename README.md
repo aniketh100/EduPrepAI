@@ -1,9 +1,12 @@
 <h1>EduPrep AI</h1>
 
 <img src="https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/270fe776-a702-4143-8b8e-c444239b90f3" width="680" height="430">   
-<br>
+<br>  
 
-Problem Research: We reached out to teachers and students and what we felt as a major problem is, students don't have much time to find questions relevant to the topic leading to lack of practice and also teachers are not able to create enough personalized content for students as they have to do it manually.
+
+
+**Problem Research:**    
+We reached out to teachers and students and what we felt as a major problem is, students don't have much time to find questions relevant to the topic leading to lack of practice and also teachers are not able to create enough personalized content for students as they have to do it manually.
 Students in colleges usually watch summary video of the whole topics (preferably YouTube or the college AV summaries) and go for the examination which doesn't help them much. What if! You get quick Summarization, interactive Wuizzes with the video you watch, that might help you with the questions that are more likely to be asked and get a better practice and confidence.
 
 All the research done these days on transcript are focused on audio transcript and then generating every aspect around it, We are majorly focusing on extracting the visual features and help you get each and everything which is there in the lecture video from diagrams to formulas, giving you a classroom like experience.
@@ -13,7 +16,7 @@ Introducing our revolutionary EdTech Platform. A cutting-edge tool designed to e
 
 
 
-Future Adds:  
+**Future Adds:**   
 ~ Create AI generated notes From PDFs, PowerPoints, and Lecture Videos, automatically!  
 ~ Chat with your AI tutor about your course materials to help you study better!   
 ~ Search for a term from the video and jump to instances where it was used.   
