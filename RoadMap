@@ -1,55 +1,57 @@
 RoadMap:
 
-<!--  #Previous Version
-Data Collection and Selection:  
-Take educational videos from 3rd party like (YouTube , https://paperswithcode.com/dataset/eduvsum)
-Explore transfer learning opportunities using pre-trained models if applicable.
+1. Scraping Data
 
-Video Conversion to Audio:
-Extract audio from video files using appropriate tools or libraries.
-Use ML-based audio processing techniques if beneficial and needed.
-VX2TEXT: End-to-End Learning of Video-Based Text Generation from Multimodal Inputs at later updates for adding visual features of the videos aswell
+2. Data Collection and Selection:  
+  Take educational videos from 3rd party like (YouTube , https://paperswithcode.com/dataset/eduvsum)
+  Explore transfer learning opportunities using pre-trained models if applicable.
 
-Audio to Transcript Generation:
-Explore automatic speech recognition (ASR) models, possibly leveraging existing ML-based solutions.
+3. Frame Extraction:
+  Extracting frames using ffmpeg
 
-Data Cleaning and Preprocessing:
-Utilize natural language processing (NLP) for text cleaning and normalization.
-SpaCy
--->
+4. Labeling Dataset:
+  Labeling the video frames dataset as slide, presenter slide and others.
+
+5. Model Training
+
+6. Image Tuning Operations (Crop Transform, Border Removal, Segment Clustering, Image Hashing)
+
+7. Sequential Data context Search
+
+8. OCR, Figure Detection
+
+9. Transcribe: (multimodal)
+  Audio to Transcript Generation:
+  Explore automatic speech recognition (ASR) models, possibly leveraging existing ML-based solutions.
+
+10. Combination, Sync
+
+11. Text Operations (Spell Check, etc..)
+
+12. Summarization (Extractive, Abstractive), Quiz Gen:
+  Using LLama2 finetuning, trying out pre existing trained on specific dataset like BERT-edu
+  
+  Answer Key/ Options Generation:
+  Sense2vec wordvectors that are used for generation of multiple choices.
+  Research about giving similar options which are not correct as options.
 
 
-Text Summarization (Optional):
-Apply extractive or abstractive summarization using ML models to condense text.
-Tokenization
-
-Question Generation:
-Implement T5 (transformer-based architectures) question generation models varying the number of models to use according to the types of question patterns.
-Or 
-Using LLMs BERT preferably for this task and Naive Bayes Classifier
-
-Quiz/Answer Key Generation:
-Sense2vec wordvectors that are used for generation of multiple choices.
-Research about giving similar options which are not correct as options.
-
+Future Scope:
 Assessment Mechanism:
 Incorporating natural language understanding (NLU) model.
 Score Reinforcement Learning
-
-Integration of Multimedia Elements (Optional):
-Explore computer vision models for extracting information from video frames.
 
 Database Integration:
 Using data indexing and retrieval, improving efficiency.
 
 Security:
-Only you can see your lectures and generated notes.
+Only the user or accessed person will be able to see your lectures and generated notes.
 
 Make an internal AI to help navigating through the portal.
 
 
 Process:
-Extract frames from video file ✔️
+Extract frames from video file 
 
 Classify extracted frames to find frames containing slides
 
@@ -76,8 +78,8 @@ Abstractive summarization
 Convert intermediate outputs to a final notes file (HTML, TXT, markdown, etc.)
 
 
-*This gives just the basic idea of the implementation and we will be changing/enhancing a lot of things here.*
 
+*This gives just the basic idea of the implementation and we will be changing/enhancing a lot of things here.*
 https://github.com/thisisgagangupta/EduPrepAI
 
 
