@@ -2,11 +2,8 @@
 Transcription-based Quiz Authoring System
 
 
-![300247484-3220f406-3aa8-478c-b266-69fe12386c32](https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/53fadeb5-d768-4cb5-a67d-c44f88623281)
 
-![EduPrep AI](https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/7355737b-3e1b-4eba-9bca-0079388ae081)
-
-
+<img src="https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/270fe776-a702-4143-8b8e-c444239b90f3" width="100" height="100">
 
 
 ![Screenshot 2024-01-28 110403](https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/3220f406-3aa8-478c-b266-69fe12386c32)
