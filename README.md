@@ -3,7 +3,7 @@ Transcription-based Quiz Authoring System
 
 
 
-<img src="https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/270fe776-a702-4143-8b8e-c444239b90f3" width="650" height="480">
+<img src="https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/270fe776-a702-4143-8b8e-c444239b90f3" width="700" height="440">
 
 
 ![Screenshot 2024-01-28 110403](https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/3220f406-3aa8-478c-b266-69fe12386c32)
