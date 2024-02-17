@@ -1,6 +1,6 @@
-*EduPrepAI*
+*EduPrep AI*
 
-<img src="https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/270fe776-a702-4143-8b8e-c444239b90f3" width="680" height="430">
+<img src="https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/270fe776-a702-4143-8b8e-c444239b90f3" width="680" height="430"> <br>
 
 
 Problem Research: We reached out to teachers and students and what we felt as a major problem is, students don't have much time to find questions relevant to the topic leading to lack of practice and also teachers are not able to create enough personalized content for students as they have to do it manually.
