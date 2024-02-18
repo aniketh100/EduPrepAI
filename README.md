@@ -1,4 +1,4 @@
-<h1>EduPrep AI</h1>
+<h1>EduPrep AI 🤖</h1>
 
 <img src="https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/270fe776-a702-4143-8b8e-c444239b90f3" width="680" height="430">     
 <br>  </br>
