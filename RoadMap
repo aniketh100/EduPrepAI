@@ -13,6 +13,8 @@ RoadMap:
   Labeling the video frames dataset as slide, presenter slide and others.
 
 5. Model Training
+  Base Models: Resnet50, EAST, LLama2-7b
+  Future Scope: Try more SOTA models.
 
 6. Image Tuning Operations (Crop Transform, Border Removal, Segment Clustering, Image Hashing)
 
