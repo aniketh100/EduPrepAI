@@ -83,7 +83,3 @@ Convert intermediate outputs to a final notes file (HTML, TXT, markdown, etc.)
 
 *This gives just the basic idea of the implementation and we will be changing/enhancing a lot of things here.*
 https://github.com/thisisgagangupta/EduPrepAI
-
-
-
-Added Scraper to scrape videos from open-access websites, youtube. etc...
