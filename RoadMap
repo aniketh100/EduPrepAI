@@ -3,7 +3,7 @@ RoadMap:
 1. Scraping Data
 
 2. Data Collection and Selection:  
-  Take educational videos from 3rd party like (YouTube , https://paperswithcode.com/dataset/eduvsum)
+  We have taken educational videos from open access university websites and Youtube
   Explore transfer learning opportunities using pre-trained models if applicable.
 
 3. Frame Extraction:
