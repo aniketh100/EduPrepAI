@@ -1,28 +1,89 @@
-<h1>EduPrep AI 🤖</h1>
+# EduPrep AI 🤖
 
-<img src="https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/270fe776-a702-4143-8b8e-c444239b90f3" width="680" height="430">     
-<br>  </br>
+<img src="https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/270fe776-a702-4143-8b8e-c444239b90f3" width="680" height="430">
 
-<br>  
+---
 
-**Problem Research:**    
-We reached out to teachers and students and what we felt as a major problem is, students don't have much time to find questions relevant to the topic leading to lack of practice and also teachers are not able to create enough personalized content for students as they have to do it manually.
-Students in colleges usually watch summary video of the whole topics (preferably YouTube or the college AV summaries) and go for the examination which doesn't help them much.   
-What if! You get quick Summarization, interactive Quizzes with the video you watch, that might help you with the questions that are more likely to be asked and get a better practice and confidence.
+## Problem Research
 
-All the research done these days on transcript are focused on audio transcript and then generating every aspect around it, Our approach is multimodal, multilingual and we are majorly focusing on extracting the visual features and help you get each and emverything which is there in the lecture video from diagrams to formulas, giving you a classroom like experience.
-
-Turn educational video lectures into engaging MCQ based quizzes and automatic assessment.
-Introducing our revolutionary EdTech Platform. A cutting-edge tool designed to enhance the learning experience for both teachers and students. This innovative project will empower educators to effortlessly create engaging quizzes that cater to their unique teaching objectives, saving valuable time and effort. With an intuitive interface, our quiz generator enables teachers to customize questions, select diverse question types, and set parameters to meet the specific needs of their curriculum. Students, in turn, benefit from a dynamic and interactive learning environment, where they can reinforce their understanding of course material in a fun and challenging way. This tool not only streamlines the quiz creation process but also provides instant grading and performance analytics, allowing teachers to identify areas for improvement and tailor their instructional approach accordingly. A transformative solution for efficient and effective learning.
+We conducted extensive research and found that students often struggle to find relevant practice questions, leading to a lack of practice, while teachers face challenges in creating personalized content. Students tend to rely on summary videos for exam preparation, which may not sufficiently cover the material. To address these issues, we propose a solution that offers quick summarization, interactive quizzes, and personalized content generation based on educational videos.
 
 
+## Problem Statement
 
-**Future Adds:**   
-~ Create AI generated notes From PDFs, PowerPoints, and Lecture Videos, automatically!  
-~ Chat with your AI tutor about your course materials to help you study better!   
-~ Search for a term from the video and jump to instances where it was used.   
-<br>
+- Watching lengthy lecture videos is time-consuming and tedious.
+- Students struggle to find relevant questions for practice.
+- Teachers spend considerable time creating quizzes and notes manually.
+- Limited access to personalized content affects students' exam preparation.
 
-![Screenshot 2024-01-28 110403](https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/3220f406-3aa8-478c-b266-69fe12386c32)
+---
 
-https://github.com/thisisgagangupta/EduPrepAI
+## Solution Overview
+
+Our innovative EdTech platform aims to enhance the learning experience by converting educational video lectures into engaging MCQ-based quizzes and providing automatic assessment. This project not only streamlines the quiz creation process for teachers but also offers students a dynamic and interactive learning environment. With features such as instant grading and performance analytics, our platform facilitates efficient and effective learning.
+
+### Key Features:
+- Quick Summarization of Educational Videos
+- Interactive Quizzes Based on Video Content
+- Automatic Assessment and Performance Analytics
+
+---
+
+## Future Additions
+
+- AI-generated Notes From PDFs, PowerPoints, and Lecture Videos
+- AI Tutor Chat Support for Studying
+- Search Functionality within Lecture Videos
+- Improved Quiz Generation Algorithms
+
+---
+
+## Roadmap
+
+1. **Scraping Data**
+
+2. **Data Collection and Selection**
+    - Utilize educational videos from open access university websites and YouTube
+
+3. **Frame Extraction**
+    - Extract frames using ffmpeg
+
+4. **Labeling Dataset**
+    - Label frames as slide, presenter slide, and others
+
+5. **Model Training**
+    - Base Models: Resnet50, YOLO, EAST, LLama2-7b
+    - Future Scope: Explore state-of-the-art models
+
+6. **Image Tuning Operations**
+    - Crop Transform, Border Removal, Segment Clustering, Image Hashing
+
+7. **Sequential Data Context Search**
+
+8. **OCR, Figure Detection**
+
+9. **Transcription (Multimodal)**
+    - Audio to Transcript Generation
+
+10. **Combination and Sync**
+
+11. **Text Operations**
+    - Spell Check, etc.
+
+12. **Summarization and Quiz Generation**
+    - Utilize LLama2 finetuning and pre-existing models like BERT-edu
+    - Answer Key/Options Generation using Sense2vec word vectors
+
+---
+
+## Future Scope
+
+- Incorporate Natural Language Understanding (NLU) models for assessment
+- Database Integration for improved efficiency
+- Enhanced Security measures for user data protection
+- Development of an internal AI assistant for navigation
+
+---
+
+For detailed implementation and updates, please visit [EduPrepAI GitHub Repository](https://github.com/thisisgagangupta/EduPrepAI).
+
