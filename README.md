@@ -40,27 +40,27 @@ Our innovative EdTech platform aims to enhance the learning experience by conver
 
 ## Roadmap
 
-1. **Scraping Data**
+1. **Scraping Data** [Successful]
 
-2. **Data Collection and Selection**
+2. **Data Collection and Selection** [Successful]
     - Utilize educational videos from open access university websites and YouTube
 
-3. **Frame Extraction**
+3. **Frame Extraction** [Successful]
     - Extract frames using ffmpeg
 
-4. **Labeling Dataset**
+4. **Labeling Dataset** [Successful]
     - Label frames as slide, presenter slide, and others
 
-5. **Model Training**
+5. **Model Training** [Ongoing]
     - Base Models: Resnet50, YOLO, EAST, LLama2-7b
     - Future Scope: Explore state-of-the-art models
 
-6. **Image Tuning Operations**
+6. **Image Tuning Operations** [Successful]
     - Crop Transform, Border Removal, Segment Clustering, Image Hashing
 
-7. **Sequential Data Context Search**
+7. **Sequential Data Context Search Training** [Successful]
 
-8. **OCR, Figure Detection**
+8. **OCR, Figure Detection** [Ongoing]
 
 9. **Transcription (Multimodal)**
     - Audio to Transcript Generation
