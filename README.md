@@ -1,15 +1,17 @@
-# EduPrep AI 🤖
+# <h1 style="font-size: 36px;">EduPrep AI 🤖</h1>
 
-<img src="https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/270fe776-a702-4143-8b8e-c444239b90f3" width="680" height="430">
+<p align="center">
+  <img src="https://github.com/thisisgagangupta/EduPrepAI/assets/93258623/270fe776-a702-4143-8b8e-c444239b90f3" width="680" height="430">
+</p>
 
 ---
 
-## Problem Research
+## Problem Research 📚
 
 We conducted extensive research and found that students often struggle to find relevant practice questions, leading to a lack of practice, while teachers face challenges in creating personalized content. Students tend to rely on summary videos for exam preparation, which may not sufficiently cover the material. To address these issues, we propose a solution that offers quick summarization, interactive quizzes, and personalized content generation based on educational videos.
 
 
-## Problem Statement
+## Problem Statement 🎯
 
 - Watching lengthy lecture videos is time-consuming and tedious.
 - Students struggle to find relevant questions for practice.
@@ -18,7 +20,7 @@ We conducted extensive research and found that students often struggle to find r
 
 ---
 
-## Solution Overview
+## Solution Overview 💡
 
 Our innovative EdTech platform aims to enhance the learning experience by converting educational video lectures into engaging MCQ-based quizzes and providing automatic assessment. This project not only streamlines the quiz creation process for teachers but also offers students a dynamic and interactive learning environment. With features such as instant grading and performance analytics, our platform facilitates efficient and effective learning.
 
@@ -29,7 +31,7 @@ Our innovative EdTech platform aims to enhance the learning experience by conver
 
 ---
 
-## Future Additions
+## Future Additions 🚀
 
 - AI-generated Notes From PDFs, PowerPoints, and Lecture Videos
 - AI Tutor Chat Support for Studying
@@ -38,7 +40,7 @@ Our innovative EdTech platform aims to enhance the learning experience by conver
 
 ---
 
-## Roadmap
+## Roadmap 🛣️
 
 1. **Scraping Data** [Successful]
 
@@ -76,7 +78,18 @@ Our innovative EdTech platform aims to enhance the learning experience by conver
 
 ---
 
-## Future Scope
+## Use Cases ✨
+
+### Multimodal and Multilingual Approach
+### Quick Summarization of Lecture Videos
+### Interactive Quizzes to Enhance Learning and Practice
+### Personalized Content based on Lecture Topics
+### Customizable Question Types and Parameters
+### Saves Time and Efforts (can be used as a browser extension)
+
+---
+
+## Future Scope 🔭
 
 - Incorporate Natural Language Understanding (NLU) models for assessment
 - Database Integration for improved efficiency
@@ -86,4 +99,3 @@ Our innovative EdTech platform aims to enhance the learning experience by conver
 ---
 
 For detailed implementation and updates, please visit [EduPrepAI GitHub Repository](https://github.com/thisisgagangupta/EduPrepAI).
-
