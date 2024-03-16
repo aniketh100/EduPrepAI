@@ -22,7 +22,7 @@ We conducted extensive research and found that students often struggle to find r
 
 ## Solution Overview 💡
 
-Our innovative EdTech platform aims to enhance the learning experience by converting educational video lectures into engaging MCQ-based quizzes and providing automatic assessment. This project not only streamlines the quiz creation process for teachers but also offers students a dynamic and interactive learning environment. With features such as instant grading and performance analytics, our platform facilitates efficient and effective learning.
+Our innovative EdTech platform aims to enhance the learning experience by converting educational video lectures into summary, lecture notes and engaging MCQ-based quizzes and providing automatic assessment. This project not only streamlines the quiz creation process for teachers but also offers students a dynamic and interactive learning environment. With features such as instant grading and performance analytics, our platform facilitates efficient and effective learning.
 
 ### Key Features:
 - Quick Summarization of Educational Videos
