@@ -7,7 +7,7 @@ import numpy as np
 import glob
 import subprocess
 import imutils
-from skimage.measure import compare_ssim
+from skimage.metrics import structural_similarity as compare_ssim
 
 origs_imgs_names=[]
 unique_chalks=[]
